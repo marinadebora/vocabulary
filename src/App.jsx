@@ -1,10 +1,12 @@
-import Verb from "./components/Verb"
+import Home from "./components/Home"
+//import Verb from './components/Verb'
 
 function App() {
 
   return (
  <div>
-  <Verb />
+  <Home />
+{/*  <Verb  /> */}
  </div>
   )
 }
